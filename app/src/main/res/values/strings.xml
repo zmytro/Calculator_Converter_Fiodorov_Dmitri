@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="Home">Select action</string>
+    <string name="Calc">Decimal Calculator</string>
+    <string name="Bin">Binary Calculator</string>
+</resources>
